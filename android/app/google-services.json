@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "865144316510",
+    "project_id": "sorgulapp-3ad1c",
+    "storage_bucket": "sorgulapp-3ad1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865144316510:android:7159f549bf53769691cacf",
+        "android_client_info": {
+          "package_name": "com.example.sorgulapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865144316510-ad19lug91hn9lk6ci7nfdvvg3nev0mmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVbEBjOaEqkJDTd2GgJQMNeJuyTGpr-8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865144316510-ad19lug91hn9lk6ci7nfdvvg3nev0mmd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

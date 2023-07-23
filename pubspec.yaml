@@ -1,0 +1,59 @@
+name: sorgulapp
+description: A new Flutter project.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.5
+  get: ^4.6.5
+  firebase_core: ^2.15.0
+  firebase_auth: ^4.7.1
+  image_picker: ^1.0.0
+  firebase_storage: ^11.2.5
+  firebase_app_check: ^0.1.5
+  cloud_firestore: ^4.8.3
+  hawk_fab_menu: ^1.2.0
+  font_awesome_flutter: ^10.5.0
+  flutter_translate: ^4.0.4
+  translator: ^0.1.7
+  step_progress_indicator: ^1.0.2
+  step_progress: ^0.0.1
+  uuid: ^3.0.7
+  date_time_picker: ^2.1.0
+  data_table_2: ^2.5.3
+  rxdart: ^0.27.7
+  intl: ^0.18.1
+  barcode_scanner: ^3.6.1
+  simple_barcode_scanner: ^0.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+
+
+flutter:
+
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/
+
+dependency_overrides:
+  intl: ^0.18.0
+  barcode_scanner: ^3.6.1
