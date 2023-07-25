@@ -1,6 +1,7 @@
 # sorgulapp
 
-<img src="![WhatsApp Image 2023-07-25 at 13 17 47](https://github.com/abdullahturkak/SorgulApp/assets/62934261/b9c8068b-816e-4539-ac15-110d636bfdf4)" width="150" height="280"> 
+<img src="![WhatsApp Image 2023-07-25 at 13 17 47](https://github.com/abdullahturkak/SorgulApp/assets/62934261/2c489590-ff11-4bf3-8c26-16ea47e4358d)
+" width="150" height="280"> 
 ![WhatsApp Image 2023-07-25 at 13 17 47](https://github.com/abdullahturkak/SorgulApp/assets/62934261/b9c8068b-816e-4539-ac15-110d636bfdf4)
 ![WhatsApp Image 2023-07-25 at 13 17 54](https://github.com/abdullahturkak/SorgulApp/assets/62934261/0ed5620a-7d96-4b5a-8369-3dfcd9f1157d)
 ![WhatsApp Image 2023-07-25 at 13 17 53](https://github.com/abdullahturkak/SorgulApp/assets/62934261/f6045f84-b1ba-4d34-8ec1-1ca5556cd1cd)
