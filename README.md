@@ -1,9 +1,9 @@
 # sorgulapp
 
  
-![WhatsApp Image 2023-07-25 at 13 17 47](https://github.com/abdullahturkak/SorgulApp/assets/62934261/b9c8068b-816e-4539-ac15-110d636bfdf4 {width=40px height=400px})
-![WhatsApp Image 2023-07-25 at 13 17 54](https://github.com/abdullahturkak/SorgulApp/assets/62934261/0ed5620a-7d96-4b5a-8369-3dfcd9f1157d | width="150" height="280")
-![WhatsApp Image 2023-07-25 at 13 17 53](https://github.com/abdullahturkak/SorgulApp/assets/62934261/f6045f84-b1ba-4d34-8ec1-1ca5556cd1cd | width="150" height="280")
+![WhatsApp Image 2023-07-25 at 13 17 47](https://github.com/abdullahturkak/SorgulApp/assets/62934261/b9c8068b-816e-4539-ac15-110d636bfdf4)
+![WhatsApp Image 2023-07-25 at 13 17 54](https://github.com/abdullahturkak/SorgulApp/assets/62934261/0ed5620a-7d96-4b5a-8369-3dfcd9f1157d)
+![WhatsApp Image 2023-07-25 at 13 17 53](https://github.com/abdullahturkak/SorgulApp/assets/62934261/f6045f84-b1ba-4d34-8ec1-1ca5556cd1cd)
 ![WhatsApp Image 2023-07-25 at 13 17 52](https://github.com/abdullahturkak/SorgulApp/assets/62934261/8e24d618-0879-4e76-8e10-a307f1376f86)
 ![WhatsApp Image 2023-07-25 at 13 17 52 (1)](https://github.com/abdullahturkak/SorgulApp/assets/62934261/f53e6853-9442-4be8-ad3a-567fa89269d6)
 ![WhatsApp Image 2023-07-25 at 13 17 51](https://github.com/abdullahturkak/SorgulApp/assets/62934261/74d15923-0965-4d49-9704-bed733b4d1c3)
